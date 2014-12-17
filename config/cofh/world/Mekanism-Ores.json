@@ -1,0 +1,50 @@
+{
+    "DenseOsmium": {
+        "template": "normal",
+        "block": {
+            "name": "Mekanism:OreBlock",
+            "metadata": 0
+        },
+        "clusterSize": 8,
+        "numClusters": 2,
+        "meanHeight": 16,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "ModerateOsmium": {
+        "template": "normal",
+        "block": {
+            "name": "Mekanism:OreBlock",
+            "metadata": 0
+        },
+        "clusterSize": 6,
+        "numClusters": 4,
+        "meanHeight": 16,
+        "maxVariance": 5,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "SparseOsmium": {
+        "template": "normal",
+        "block": {
+            "name": "Mekanism:OreBlock",
+            "metadata": 0
+        },
+        "clusterSize": 3,
+        "numClusters": 6,
+        "meanHeight": 16,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    }
+}
