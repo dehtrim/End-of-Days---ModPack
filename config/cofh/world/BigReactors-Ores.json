@@ -1,0 +1,50 @@
+{
+    "DenseYellorite": {
+        "template": "normal",
+        "block": {
+            "name": "BigReactors:YelloriteOre",
+            "metadata": 0
+        },
+        "clusterSize": 10,
+        "numClusters": 2,
+        "meanHeight": 6,
+        "maxVariance": 3,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "ModerateYellorite": {
+        "template": "normal",
+        "block": {
+            "name": "BigReactors:YelloriteOre",
+            "metadata": 0
+        },
+        "clusterSize": 8,
+        "numClusters": 4,
+        "meanHeight": 6,
+        "maxVariance": 5,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    },
+    "SparseYellorite": {
+        "template": "normal",
+        "block": {
+            "name": "BigReactors:YelloriteOre",
+            "metadata": 0
+        },
+        "clusterSize": 6,
+        "numClusters": 5,
+        "meanHeight": 6,
+        "maxVariance": 8,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [-1, 1]
+    }
+}
