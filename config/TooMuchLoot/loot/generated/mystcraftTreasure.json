@@ -1,0 +1,3578 @@
+{
+  "category": "mystcraftTreasure",
+  "count_min": 4,
+  "count_max": 8,
+  "loot": [
+    {
+      "item": "minecraft:book",
+      "damage": 0,
+      "weight": 50,
+      "count_min": 1,
+      "count_max": 8
+    },
+    {
+      "item": "minecraft:paper",
+      "damage": 0,
+      "weight": 50,
+      "count_min": 1,
+      "count_max": 32
+    },
+    {
+      "item": "minecraft:stone",
+      "damage": 0,
+      "weight": 1000,
+      "count_min": 0,
+      "count_max": 0
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.nickel"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConHuge"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorSky"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.blockFluxGoo"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorGrassNat"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConSingle"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorGrass"
+      },
+      "weight": 95,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.thermalfoundation.fluid.redstone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome40"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.liquid.slime"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome41"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome42"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "EnvMeteor"
+      },
+      "weight": 7,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome43"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.honey"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome34"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome33"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome36"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModClear"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome35"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome38"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome37"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "SunNormal"
+      },
+      "weight": 92,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome39"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModPurple"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.snow"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "NoSea"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.dirt.default"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConTiled"
+      },
+      "weight": 78,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.molten.fairy"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModGreen"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome31"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome32"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModSilver"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModDouble"
+      },
+      "weight": 95,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome30"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome25"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome24"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome23"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome22"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome29"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.molten.stone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConNative"
+      },
+      "weight": 70,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome28"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome27"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.stone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome26"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.sewage.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.custard"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome194"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome195"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "FloatIslands"
+      },
+      "weight": 60,
+      "count_min": 1,
+      "count_max": 9
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorHorizon"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome192"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome193"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "EnvLightning"
+      },
+      "weight": 42,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "LightingDark"
+      },
+      "weight": 81,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome20"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome21"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.lead"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "TerrainNether"
+      },
+      "weight": 56,
+      "count_min": 1,
+      "count_max": 8
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome16"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherCloudy"
+      },
+      "weight": 82,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome15"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome18"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.chlorophyll"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorFog"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome17"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome12"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome11"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome14"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome13"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "NoHorizon"
+      },
+      "weight": 84,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome19"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "TerrainAmplified"
+      },
+      "weight": 56,
+      "count_min": 1,
+      "count_max": 8
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorWater"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "EnvExplosions"
+      },
+      "weight": 46,
+      "count_min": 1,
+      "count_max": 7
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.nutrient_distillation"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.gunpowder.molten"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.molten.pokefennium"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.cyanite.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.ice"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome10"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.rocket_fuel"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Dungeons"
+      },
+      "weight": 80,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Flat"
+      },
+      "weight": 64,
+      "count_min": 1,
+      "count_max": 10
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Caves"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Tendrils"
+      },
+      "weight": 60,
+      "count_min": 1,
+      "count_max": 9
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.steam.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.lava"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.iron"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorCloudNat"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModGrey"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherStorm"
+      },
+      "weight": 82,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.oreIron"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.biofuel.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.flux.molten"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "StarFissure"
+      },
+      "weight": 70,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModZero"
+      },
+      "weight": 87,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.oreRedstone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.oreGold"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModNavy"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModFull"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorFogNat"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.blockFluidDeath"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.thermalfoundation.fluid.pyrotheum"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.pinkslime.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModEnd"
+      },
+      "weight": 95,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.ice.molten"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.obsidian"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorFoliageNat"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.icePacked"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorFoliage"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.hell_blood"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.molten.refined.glowstone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.oreCoal"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConTiny"
+      },
+      "weight": 71,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.molten.limestone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "LakesSurface"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherRain"
+      },
+      "weight": 82,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "StarsDark"
+      },
+      "weight": 64,
+      "count_min": 1,
+      "count_max": 10
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.water"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherNorm"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.milk.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Void"
+      },
+      "weight": 73,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome151"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMaroon"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "HugeTrees"
+      },
+      "weight": 80,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Obelisks"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.hootch"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.log.big_oak"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome158"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome155"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome156"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome157"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome164"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome163"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome162"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome161"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome160"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "LightingBright"
+      },
+      "weight": 75,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModNoon"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModGradient"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome167"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Villages"
+      },
+      "weight": 80,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.railcraft.fluid.creosote"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorSkyNat"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorWaterNat"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome165"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.netherquartz"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome166"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModYellow"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.thermalfoundation.fluid.coal"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.myst.fluid.myst.ink.black"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome4"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome5"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome6"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome7"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome0"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome1"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.thermalfoundation.fluid.mana"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome2"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome3"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome149"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome144"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConMedium"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome8"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.thermalfoundation.fluid.cryotheum"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome143"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome9"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "StarsTwinkle"
+      },
+      "weight": 95,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.log.oak"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorSkyNight"
+      },
+      "weight": 92,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModSouth"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.glass"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome140"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModCyan"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome141"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome142"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherFast"
+      },
+      "weight": 89,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.witchery:spiritflowing"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.molten.osmium"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "LightingNormal"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome139"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "StarsEndSky"
+      },
+      "weight": 26,
+      "count_min": 1,
+      "count_max": 4
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModEast"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome138"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome137"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome136"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.aluminum"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome135"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome134"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome133"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome132"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome130"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome131"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModRed"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "MoonNormal"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.lightgem"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModHalf"
+      },
+      "weight": 95,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.obsidian"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.thermalfoundation.fluid.glowstone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fish.oil"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome129"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModNorth"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome99"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome122"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome121"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome124"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModBlue"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome123"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome126"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.witchery:hollowtears"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome125"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome128"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome127"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "DenseOres"
+      },
+      "weight": 31,
+      "count_min": 1,
+      "count_max": 4
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherOn"
+      },
+      "weight": 82,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.mushroomsoup.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherOff"
+      },
+      "weight": 76,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome120"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Ravines"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.glass"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Rainbow"
+      },
+      "weight": 73,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "LakesDeep"
+      },
+      "weight": 96,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherSlow"
+      },
+      "weight": 89,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModOlive"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome119"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome118"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "GenSpikes"
+      },
+      "weight": 60,
+      "count_min": 1,
+      "count_max": 9
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome89"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome88"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "MoonDark"
+      },
+      "weight": 78,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.mobessence.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome113"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.blockFluidPure"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.liquid.blood"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome112"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome111"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "SunDark"
+      },
+      "weight": 73,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome110"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome117"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome116"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome115"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome114"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModWest"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome90"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "NetherFort"
+      },
+      "weight": 70,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome95"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome96"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome97"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome98"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "WeatherSnow"
+      },
+      "weight": 82,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome91"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome92"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome93"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome94"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.fire_water"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome103"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModWhite"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.projectred.compatibility.liqcondredmetal"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome104"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.log.spruce"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome105"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome106"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome100"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome101"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome102"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.liquid.cement"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome79"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome77"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ColorCloud"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome78"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome107"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome108"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome109"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.lifeEssenceFluidBlock"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome83"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome82"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome81"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome80"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome87"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome86"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome85"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome84"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.sludge.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "CryForm"
+      },
+      "weight": 60,
+      "count_min": 1,
+      "count_max": 9
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.projectred.compatibility.liqredstone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome66"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome67"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModSetting"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome68"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Strongholds"
+      },
+      "weight": 80,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome69"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "TerModSpheres"
+      },
+      "weight": 60,
+      "count_min": 1,
+      "count_max": 9
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome70"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.tin"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome72"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome71"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "EnvAccel"
+      },
+      "weight": 35,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome74"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome73"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome76"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConGrid"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome75"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.meat.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.yellorium.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.oreDiamond"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.hellrock"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.poison"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.log.jungle"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "TerrainNormal"
+      },
+      "weight": 93,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConSmall"
+      },
+      "weight": 79,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.whiteStone"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModBlack"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "TerrainEnd"
+      },
+      "weight": 73,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Mineshafts"
+      },
+      "weight": 80,
+      "count_min": 1,
+      "count_max": 12
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Skylands"
+      },
+      "weight": 70,
+      "count_min": 1,
+      "count_max": 11
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome59"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "EnvScorch"
+      },
+      "weight": 40,
+      "count_min": 1,
+      "count_max": 6
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome57"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome58"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome55"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.highPressureWater"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome56"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome65"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMagenta"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome64"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "BioConLarge"
+      },
+      "weight": 85,
+      "count_min": 1,
+      "count_max": 13
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome63"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome62"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome61"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_fluid.mfr.chocolatemilk.still"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome60"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.liquid.glue"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.log.birch"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModTeal"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.myst.crystal"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.netherBrick"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.log.acacia"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome48"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome49"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome44"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome45"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome46"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome47"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome52"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome51"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome54"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome53"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "Biome50"
+      },
+      "weight": 90,
+      "count_min": 1,
+      "count_max": 14
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModDark Green"
+      },
+      "weight": 98,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModMat_tile.fluid.molten.copper"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "StarsNormal"
+      },
+      "weight": 95,
+      "count_min": 1,
+      "count_max": 15
+    },
+    {
+      "item": "Mystcraft:page",
+      "damage": 0,
+      "nbt": {
+        "symbol": "ModRising"
+      },
+      "weight": 100,
+      "count_min": 1,
+      "count_max": 16
+    }
+  ]
+}
