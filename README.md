@@ -6,14 +6,11 @@ Minecraft forge 1.7.10 ModPack
 This pack is still in alpha testing. Things will change and you will find bugs. Please create an issues for bugs or suggestions.
 
 Technic Platform URL - http://www.technicpack.net/api/modpack/end-of-day
-Server download - https://dl.dropboxusercontent.com/u/50148525/EndOfDays/v1.0/server.zip
-
 
 
 Mods list:
-<CoFH ASM> - CoFH ASM Data Initialization - 000
-act - AdminCommandsToolbox - 0.0.2a_1.7.10
-aobd - Another One Bites The Dust - 2.3.3
+- act - AdminCommandsToolbox - 0.0.2a_1.7.10
+- aobd - Another One Bites The Dust - 2.3.3
 appaero - AppliedAerodynamics - 2.1.4.544
 appaeronei - AppliedAerodynamicsNEI - 2.1.4.544
 AppleCore - AppleCore - 1.0.1
